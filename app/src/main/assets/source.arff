@@ -1,0 +1,17 @@
+@relation wrist_participant_1
+
+@attribute Wrist_Ax numeric
+@attribute Wrist_Ay numeric
+@attribute Wrist_Az numeric
+@attribute Wrist_Lx numeric
+@attribute Wrist_Ly numeric
+@attribute Wrist_Lz numeric
+@attribute Wrist_Gx numeric
+@attribute Wrist_Gy numeric
+@attribute Wrist_Gz numeric
+@attribute Wrist_Mx numeric
+@attribute Wrist_My numeric
+@attribute Wrist_Mz numeric
+@attribute Activity {walking,standing,jogging,sitting,biking,upstairs,downstairs}
+
+@data
